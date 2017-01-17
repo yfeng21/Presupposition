@@ -1,0 +1,14 @@
+(lp1
+(S'improve'
+p2
+I1
+tp3
+a(S'provides'
+p4
+I1
+tp5
+a(S'gave'
+p6
+I1
+tp7
+a.
